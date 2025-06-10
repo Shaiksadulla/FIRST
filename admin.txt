@@ -1,0 +1,2 @@
+admin can add and remove user accounts 
+and also set the rulesgit status
